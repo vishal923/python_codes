@@ -1,4 +1,5 @@
-# ...............Task-18....Resort customer information......
+# ....Resort customer Information......
+
 from datetime import datetime, timedelta
 n = input('enter the name: ')
 u = int(input('enter the aadhar number: '))
